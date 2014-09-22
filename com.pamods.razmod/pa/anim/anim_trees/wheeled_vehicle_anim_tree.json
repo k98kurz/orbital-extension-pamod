@@ -1,0 +1,1 @@
+{"blend_root":{"type":"walk","node_idle":{"type":"bind_pose"},"node_walk":{"type":"playback","anim_name":"drive"}},"skeleton_controls":[{"type":"fader","lerp_func":"not_being_built","child":{"type":"procedural_aim_yaw_pitch","rotation_bone":"bone_turret"}}]}

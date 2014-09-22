@@ -1,0 +1,38 @@
+== Blender ==
+	/pa/units/orbital/anti_nuke_laser/anti_nuke_laser.papa
+	/pa/units/orbital/nuke_launcher/nuke_launcher.papa
+	/pa/units/orbital/orbital_frigate/orbital_frigate.papa
+
+
+== Orbital Anti-nuke Laser ==
+ammo:
+	remove stages
+	increased RoF
+	change build-bar icon
+papa: blender mesh
+
+skirt decal: what is this?
+
+
+== Orbital Nuke Launcher ==
+build bar icon
+papa: blender mesh
+
+
+== Orbital Frigate ==
+everything:
+	weapons (all): "initial_velocity: 400, max_velocity: 400, lifetime: 3"
+		weapon 1: laser, 250 damage, 1 RoF, priority targets avenger
+		weapon 2: laser, 250 damage, 1 RoF, priority targets avenger
+		weapon 3: projectile, 500 damage, splash, 0.5 RoF (2 s/shot), priority targets frigate
+	health: 1000
+	build cost: 5,000
+	icons: tactical and build bar
+papa: blender mesh
+
+
+== Other ==
+update unit_list.json
+purge unnecessary files
+advanced orbital factory?
+	cruisers, capital ships, and IPBMs (orbital boom bots)?

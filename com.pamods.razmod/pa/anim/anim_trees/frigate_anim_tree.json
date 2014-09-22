@@ -1,0 +1,1 @@
+{"blend_root":{"type":"bind_pose"},"skeleton_controls":[{"type":"procedural_aim","rotation_bone":"bone_turret01","rotation_axis":"z"},{"type":"procedural_aim","rotation_bone":"bone_pitch01","rotation_axis":"x"},{"type":"procedural_aim","rotation_bone":"bone_turret02","rotation_axis":"z"},{"type":"procedural_aim","rotation_bone":"bone_pitch02","rotation_axis":"x"}]}

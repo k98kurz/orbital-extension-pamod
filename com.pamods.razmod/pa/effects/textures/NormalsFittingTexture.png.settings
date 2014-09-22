@@ -1,0 +1,3 @@
+texture-format-alpha: r8
+texture-format-noalpha: r8
+texture-generate-mipmaps: false

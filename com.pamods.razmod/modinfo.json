@@ -1,0 +1,10 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.pamods.razmod",
+    "display_name" : "Orbital Extension",
+    "description" : "This mod adds an orbital frigate, nuke launcher, and anti-nuke laser.",
+    "author" : "raztastic",
+    "version" : "0.0",
+    "signature" : "(not yet implemented)"
+}
